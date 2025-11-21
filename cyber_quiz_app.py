@@ -170,6 +170,61 @@ QUESTIONS_DB = [
         ],
         "answer": "Jak najszybciej, gdyż często łatają luki bezpieczeństwa",
         "explanation": "Nieaktualne oprogramowanie jest podatne na znane ataki. Aktualizacje to podstawa higieny cyfrowej."
+    },
+    {
+        "question": "Co to jest VPN (Virtual Private Network)?",
+        "options": [
+            "Wirus Psujący Napędy",
+            "Wirtualna sieć prywatna szyfrująca Twoje połączenie internetowe",
+            "Bardzo Powolny Internet",
+            "Program do oglądania filmów"
+        ],
+        "answer": "Wirtualna sieć prywatna szyfrująca Twoje połączenie internetowe",
+        "explanation": "VPN tworzy bezpieczny, szyfrowany tunel dla Twoich danych, chroniąc je przed podsłuchem, zwłaszcza w otwartych sieciach Wi-Fi."
+    },
+    {
+        "question": "Czy tryb incognito (prywatny) w przeglądarce zapewnia pełną anonimowość w sieci?",
+        "options": [
+            "Tak, nikt nie widzi co robię",
+            "Tak, ale tylko w nocy",
+            "Nie, ukrywa historię tylko na Twoim urządzeniu, dostawca internetu nadal widzi ruch",
+            "Tak, to to samo co VPN"
+        ],
+        "answer": "Nie, ukrywa historię tylko na Twoim urządzeniu, dostawca internetu nadal widzi ruch",
+        "explanation": "Tryb incognito zapobiega jedynie zapisywaniu historii i ciasteczek na Twoim komputerze. Twój adres IP i aktywność są nadal widoczne dla administratorów sieci."
+    },
+    {
+        "question": "Czy zeskanowanie nieznanego kodu QR może być niebezpieczne?",
+        "options": [
+            "Nie, to tylko obrazek",
+            "Tak, może prowadzić do złośliwej strony lub wymusić pobranie wirusa (Quishing)",
+            "Tylko jeśli jest czarno-biały",
+            "Nie, telefony mają wbudowane zabezpieczenia"
+        ],
+        "answer": "Tak, może prowadzić do złośliwej strony lub wymusić pobranie wirusa (Quishing)",
+        "explanation": "Cyberprzestępcy mogą podmieniać kody QR (np. na parkometrach), aby przekierować użytkowników na fałszywe strony wyłudzające dane płatnicze."
+    },
+    {
+        "question": "Instalujesz prostą aplikację 'Latarka', a ona żąda dostępu do Twoich kontaktów i lokalizacji. Co robisz?",
+        "options": [
+            "Zgadzam się, pewnie tego potrzebuje",
+            "Nie instaluję jej lub odrzucam te uprawnienia, bo są zbędne dla tej funkcji",
+            "Piszę do autora z pytaniem",
+            "Instaluję na telefonie służbowym"
+        ],
+        "answer": "Nie instaluję jej lub odrzucam te uprawnienia, bo są zbędne dla tej funkcji",
+        "explanation": "Zawsze weryfikuj, czy żądane uprawnienia są adekwatne do funkcji aplikacji. Nadmiarowe uprawnienia to często cecha oprogramowania szpiegującego."
+    },
+    {
+        "question": "Co to jest 'Shoulder Surfing'?",
+        "options": [
+            "Surfowanie po internecie w pracy",
+            "Rodzaj sportu wodnego",
+            "Podglądanie ekranu lub klawiatury ofiary przez ramię w celu kradzieży danych",
+            "Szukanie informacji o pracownikach w social mediach"
+        ],
+        "answer": "Podglądanie ekranu lub klawiatury ofiary przez ramię w celu kradzieży danych",
+        "explanation": "Bądź czujny wpisując hasła lub PIN-y w miejscach publicznych. Ktoś może Cię obserwować lub nagrywać."
     }
 ]
 
